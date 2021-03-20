@@ -1,0 +1,20 @@
+{
+  "name": "media-split-into-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngochangjelly/media-split-into-parts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngochangjelly/media-split-into-parts/issues"
+  },
+  "homepage": "https://github.com/ngochangjelly/media-split-into-parts#readme"
+}
